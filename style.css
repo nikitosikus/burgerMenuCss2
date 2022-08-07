@@ -152,7 +152,7 @@ p {
 	.button_close {
 		position: absolute;
 		top: 6px;
-		right: 2px;
+		right: 19px;
 	}
 	#nav:not(:target) {
 		left: -110%;
